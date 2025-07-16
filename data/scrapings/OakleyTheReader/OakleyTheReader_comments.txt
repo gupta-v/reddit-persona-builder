@@ -1,0 +1,323 @@
+Reddit User: OakleyTheReader
+Fetched on: 2025-07-15T18:15:04.672295+00:00
+
+Post 1:
+Title: "How do I cap my fps?"
+Subreddit: r/Vermintide
+Permalink: https://reddit.com/r/Vermintide/comments/1lyc6ec/how_do_i_cap_my_fps/
+Body:
+Vermintide 2 seems to be  the only game I've seen in my life that doesn't have a built in fps cap, is there any way to fix this without going into my Nvidia controls?
+
+And now, Vsync won't cap it enough.
+
+→ OakleyTheReader replied to u/Geoffk123 (2025-07-13T07:20:29+00:00)
+Quoted comment: ""Nvidia Reflex Framerate Cap" under Video > Performance seems to lock your fps to a specific value, 
+
+  
+I dont know enough about it to know exactly what Nvidia reflex does though so sorry if its not what you're looking for"
+Reply: It doesn't seem to do anything, i capped my fps at 60 and it still goes up to 122
+
+────────────────────────────────────────────────────────────────────────
+Post 2:
+Title: "What was c17 named before the 7 hour war?"
+Subreddit: r/HalfLife
+Permalink: https://reddit.com/r/HalfLife/comments/1h805p6/what_was_c17_named_before_the_7_hour_war/
+
+→ OakleyTheReader replied to u/Relative-Arm7421 (2024-12-06T19:37:52+00:00)
+Quoted comment: "Heavily inspired by Sofia, and the post-soviet architecture, might be every Eastern European city"
+Reply: I live in an Eastern European city and... Yeah... Half-life was a lot more atmospheric for me...
+
+────────────────────────────────────────────────────────────────────────
+Post 3:
+Title: "Update on rimworld "
+Subreddit: r/MrSamuelStreamer
+Permalink: https://reddit.com/r/MrSamuelStreamer/comments/1h6qqeh/update_on_rimworld/
+
+→ OakleyTheReader replied to u/Past-Cap-1889 (2024-12-05T10:26:04+00:00)
+Quoted comment: "So, send him 24 "where rimrim"s and he can take the day off."
+Reply: Yeah that's genius! Let's all do that at once and then Mr Samuel can finally retire from his much hated streaming career!
+
+→ OakleyTheReader commented on post (2024-12-05T01:45:03+00:00)
+Based Samuel for scolding his whole community for a few bad actors, if he wanted a break he just could've said so, without any issue, but no, let the plebs fight he says
+
+────────────────────────────────────────────────────────────────────────
+Post 4:
+Title: "Why is the fox devil friendly to humans?"
+Subreddit: r/ChainsawMan
+Permalink: https://reddit.com/r/ChainsawMan/comments/1gsbrqj/why_is_the_fox_devil_friendly_to_humans/
+Body:
+In ep7 it's mentioned the fox devil is one of "the friendlier ones" and more often makes contracts with humans, which the series implies to be very rare (we only really see two examples being the chainsaw devil, and power) but as far as I know it's never mentioned since. Do we ever get an explanation as to why some devils take up contracts instead of feasting on humans like the rest?
+
+→ OakleyTheReader replied to u/Dangerous_Jacket_129 (2024-11-18T07:03:51+00:00)
+Quoted comment: "In Japanese Folklore, foxes are often seen as little benevolent yokai. It doesn't go much deeper than that
+
+
+Also tons of devils form contracts with humans. Hence the special divisions, international assassins, hybrids, and so on. Not every devil is aggressive towards humans, but most are open to contracts if it benefits them. Fox devil is just particularly lenient and whimsical in how she chooses her contracts."
+Reply: That explains it, thank you!
+
+────────────────────────────────────────────────────────────────────────
+Post 5:
+Title: "This is literally the worst ever planet I have ever surveyed, and it has survivors on it"
+Subreddit: r/starsector
+Permalink: https://reddit.com/r/starsector/comments/1gl40l8/this_is_literally_the_worst_ever_planet_i_have/
+
+→ OakleyTheReader commented on post (2024-11-07T11:08:13+00:00)
+Unironically this is like the average planet irl
+
+────────────────────────────────────────────────────────────────────────
+Post 6:
+Title: "OH MY GOD I WILL VOOOoooOOOTE"
+Subreddit: r/okbuddyvowsh
+Permalink: https://reddit.com/r/okbuddyvowsh/comments/1gi35ti/oh_my_god_i_will_vooooooooote/
+
+→ OakleyTheReader replied to u/After-Trifle-1437 (2024-11-07T11:05:39+00:00)
+Quoted comment: "All 485k Vaushites on their way to vote for Donald Trump just because of this song. (He wins in a landslide)"
+Reply: real unfortunately
+
+────────────────────────────────────────────────────────────────────────
+Post 7:
+Title: "This election has turned me into a LENINIST, NO MORE DEMOCRACY FOR YOU YOU CAN'T HANDLE THE KEYS!!"
+Subreddit: r/okbuddyvowsh
+Permalink: https://reddit.com/r/okbuddyvowsh/comments/1gkwta0/this_election_has_turned_me_into_a_leninist_no/
+
+→ OakleyTheReader replied to u/gigerxounter (2024-11-07T10:52:59+00:00)
+Quoted comment: "completely encased in lead or microplastics"
+Reply: Lead and microplastics you mean?
+
+────────────────────────────────────────────────────────────────────────
+Post 8:
+Title: "Waystation not stockpiling."
+Subreddit: r/starsector
+Permalink: https://reddit.com/r/starsector/comments/1gfz2w5/waystation_not_stockpiling/
+Body:
+Built two waystations in my colonies, both have had their demands met for almost a cycle now but none of them are stockpiling anything, the weird thing is the first station I build did stockpile stuff, but only for a short while, then it stopped, second one didn't do anything at all.
+
+Is there something I'm missing in their behavior? Is it supposed to be like this?
+
+→ OakleyTheReader replied to u/Erroneouse (2024-10-31T14:18:13+00:00)
+Quoted comment: "Waystation stockpiles into the stockpile, not storage. This has the unfortunate side effect of you still have to pay for it and at base price. 
+
+If/when you get into modding, Industrial Evolution has the behavior you're looking for. There's an item called a VPC chip that a colony building can turn into commodities over time. A supplies, fuel, or exploration (both) chip into a variable assembler/manufactory will deposit some of the commodity into your storage every production cycle."
+Reply: Very nice, that's exactly what I was looking for! Paying for supplies is very inconvenient, since I can usually get them for cheaper in kazeron/sindria/chicomoztoc anyway, so the only upside is convenience.
+
+→ OakleyTheReader replied to u/Ganegrei (2024-10-30T23:03:27+00:00)
+Quoted comment: "Ok, might be a dumb question, but have you recently tried clicking on the button that says "resource stockpiles?" Because the screenshots you took were of regular personal storage, which is completely different."
+Reply: my bad, i thought it would gather into storage so i wouldnt have to pay for the damn things, turns out theyre just kinda bad
+
+→ OakleyTheReader replied to u/GarettZriwin (2024-10-30T22:58:38+00:00)
+Quoted comment: "And theres nothing in resouce stockpiles? Storage is separate thing from that and waystations won't add to the latter."
+Reply: It gathers into the stockpile? Damn that sucks, +10 accessibility is the only real benefit then?
+
+→ OakleyTheReader replied to u/Ganegrei (2024-10-30T22:44:01+00:00)
+Quoted comment: "Can you post a screenshot of your colony buildings? And your resource stockpile screen?"
+Reply: [https://imgur.com/a/10-31-2024-X8yPVdm?third\_party=1](https://imgur.com/a/10-31-2024-X8yPVdm?third_party=1)
+
+all storage was sorted before screenshoting
+
+→ OakleyTheReader replied to u/Doctor_Calico (2024-10-30T22:41:46+00:00)
+Quoted comment: "Accessibility? Shortages from merchants getting killed in transit? Tri-Tachyon's colony crisis?"
+Reply: No shortages, demands are met, accessibility is high, no crisis no anything that I know of which could've caused this
+
+────────────────────────────────────────────────────────────────────────
+Post 9:
+Title: "I genuanly dont think that the grsphics are bad"
+Subreddit: r/Kenshi
+Permalink: https://reddit.com/r/Kenshi/comments/1gdwqq6/i_genuanly_dont_think_that_the_grsphics_are_bad/
+Body:
+People always mantion how bad kenshi looks like and i really dont see, every game has its own style and kenshi is so normal imo, veng looks cool, vein is a jungle, obidiance and foglands are creepy every zones is so unique and cool
+
+→ OakleyTheReader commented on post (2024-10-28T08:08:32+00:00)
+Kenshi has bad graphics from a technical perspective, but it has brilliant art direction which carries it all the way for me and makes it look beautiful (at times)
+
+I do wish it had better graphics to carry it in the places where it's art direction can't, the "rocky wasteland" and "sandy bug desert" where you spend most of your time as a player get old very fast, unlike it's more exotic areas where it shines, but even despite this it's very good.
+
+────────────────────────────────────────────────────────────────────────
+Post 10:
+Title: "Sorcerer running out of class resources quickly, any way to mitigate this?"
+Subreddit: r/dndnext
+Permalink: https://reddit.com/r/dndnext/comments/1g9ggh5/sorcerer_running_out_of_class_resources_quickly/
+Body:
+Relatively new player here, first time playing as pure sorcerer, and surprised by how quickly you can run out of spell slots and sorcery points, at lower levels atleast.
+
+Within the first turn, I'm already down a second level spell slot and 3 sorcery points, my sorcerer frequently ran out of resources and had to resort to pulling out his daggers, and that's just the first encounter in the day!
+
+I do understand this problem is probably exaggerated by the fact were still on very low levels, (level 4) and it'll probably get better with time as I get more clas resources, but there seems to be a tr...
+
+→ OakleyTheReader replied to u/SharkzWithLazerBeams (2024-10-22T22:45:48+00:00)
+Quoted comment: "But by using daggers you're forcing yourself into melee range to use them, which may be a big part of your incentive to blow spell slots so quickly. If you were using your ranged cantrip more often you wouldn't feel the same pressure because you wouldn't be sitting in melee range so much.
+
+Or, if you're comfortable sitting in melee range, then the answer is simply to make use of your daggers more often to conserve spell slots."
+Reply: I usually go into melee range once I'm out of good spell slots, but being close to my foes also allows me to use burning hands, which is pretty decent damage on lower levels if the enemies are grouped up.
+
+I do appreciate your advice and concerns!
+
+→ OakleyTheReader replied to u/SharkzWithLazerBeams (2024-10-22T22:39:58+00:00)
+Quoted comment: "> and had to resort to pulling out his daggers
+
+Ah, I see the problem. You didn't get the note about making sure to take a damaging cantrip. You should always have one damaging cantrip in your build. That's your go-to attack when you are low on resources or just want to conserve resources. Plus most (but not all) damage cantrips are ranged, so you don't have to get up close like you do with daggers. It's very common for casters to use their damage cantrip quite a bit, mixing in higher level spells as needed based on the fight."
+Reply: I discussed this somewhere else, but I do have a damaging cantrip, it's just worse than the daggers.
+
+Fire bolt is 1d10 5.5 on average, with a +5 to hit
+
+Wielding 2 daggers let's me add the damage dice of the second one to the attack roll of the first, and I can also add my dex modifier to damage with them, which works out to:
+
+2d4+3 which is 8 on average, with a +5 to hit, and it has more consistent damage, the lowest I could possibly roll is 5 instead of 1.
+
+At higher levels, I get to add a second d10 to my cantrip damage roll, in which case I will switch, but for now my sorcerer ex-cirscuss performer will stick to his daggers until he's better with the magic!
+
+→ OakleyTheReader replied to u/CHIEFRAPTOR (2024-10-22T22:33:35+00:00)
+Quoted comment: "I’m playing an L7 aberrant sorcerer and yeah it’s a bit rough at early levels. Next level helps a lot with resources. As others have said, dropping a big control spell is ideal and then you can get by pretty well with cantrips. 
+
+Would your DM consider letting you use the new 2024 sorcerer? We just swapped to it and it feels much better to not only have some sorc points come back on a short rest, but also innate sorcery to help that one big spell be less resisted and make your cantrips much more likely to connect"
+Reply: I just read the 5.5 sorcerer and it seems AMAZING but it hasn't been translated to my language yet and our dm doesn't speak a lick of English, so no chance :/
+
+→ OakleyTheReader replied to u/High_Questions (2024-10-22T22:22:52+00:00)
+Quoted comment: "Hey OP, I’m currently playing a sorcerer for the first time too, I get that low levels are tough but I’m interested in SPECIFICALLY what spells you have and what meta magics you have
+
+What is your first spell you usually cast and are you casting cantrips? How long of a fight are you usually in? What’s the rest of your party playing? 
+
+I’m currently level 13 and am at the point where my DM sometimes has to double check I’m not cheating because of the SHEER VOLUME of high level spells I can put out. This is due to having meta magic adept, a blood well vial, a ring of spell storing, and a staff of power but even at lower levels you should feel like you have enough spells to get through a single combat.
+
+The only thing I can think of without knowing your subclass and spell list is that what spells you are using aren’t being as effective as they should be, my friend you are a Sorcerer, you are magic incarnate, when you drop a spell it should affect (effect?) the battle in a lasting and meaningful way even at low levels so if you feel you aren’t having that happen maybe it’s not the amount of spells you are casting you need to look at but WHAT spells
+
+So if you have a chance to post your spell list I’d love to see it and maybe we can come up with some ideas to give you more longevity, but at your level something like sleep should be absolutely destroying half of your combats with a single cast"
+Reply: So, my load out isn't the most amazing, but for a wacky fire sorcerer the spells I use most often are scorching ray, burning hands, and sleep for finishing off damaged enemies, as for meta magic I have twinned spell and quickened spell.
+
+Not really planning on using any concentration spells but at level 5 I plan on twin spelling haste like every good sorcerer.
+
+As for your loadout, it's amazing but I doubt the dm would ever let me get this many artifacts, especially ones this powerful, and I doubt I'm going to get a higher level than 8 either, but I would be curious to hear more about your sorcerer
+
+→ OakleyTheReader replied to u/AnthonycHero (2024-10-22T13:52:40+00:00)
+Quoted comment: "Well, first, it's only normal that your fellow fighter friends hit harder when you're not casting. You do your thing, they do theirs.
+
+Second, and this is just a quirk in the system's math really, from level 1 to 4 a caster with +3 Dex is better using a light crossbow than any cantrip for damage. From 5th level onward the cantrips start becoming convenient.
+
+In that level range you're right that a sorcerer won't play like a sorcerer for most of the adventuring day, but on the flipside your attacks won't be **especially** worse than those of a rogue, either."
+Reply: poor rouges really got the worst deal in combat then, thanks for the advice though!
+
+→ OakleyTheReader replied to u/Dazzling_Bluebird_42 (2024-10-22T13:51:17+00:00)
+Quoted comment: "That's the point of fighters they do damage consistently, and for doing that damage they don't get any of the control spells or utility spells a sorcerer gets.  You can't get powerful resource using leveled spells and cantrips that rock as hard as a fighter swinging his sword because than what is the point of the fighter??
+
+Need to realize this is a team game not a game where your in the spotlight nonstop because you dominate all aspects.
+
+Also not sure why you'd ever resort to daggers over firebolt, damage should be similar, attack mod on firebolt should be higher and it's much safer"
+Reply: To answer the dagger question, 2d4+3 is 8 average with good consistency vs 1d10 5.5 average with poor consistency.
+
+Attack mod is the same, I have +3 in both dex and charisma.
+
+A lot of assumptions about me have also been made in your reply, which I feel werent necessary or relevant to the post, but for your knowledge, I am the parties damage dealer so I think it's fair to be upset I'm not doing enough damage.
+
+→ OakleyTheReader replied to u/Proper-Dave (2024-10-22T13:44:31+00:00)
+Quoted comment: "One word. ***Cantrips.***
+
+There is no reason that a full caster in 5e should have to resort to a dagger."
+Reply: Well, I disagre with this, damage at low levels with cantrips is veryyy bad.
+
+My sorcerer can either fire off a 1d10 cantrip, which is on average 5.5 damage, or with his +3 dex can do 2d4+3 damage with his daggers, on average that does 8 damage, with a lot better consistency.
+
+The only advantage of a cantrip is the range, which isn't that good if I'm not concentrating on any spells.
+
+→ OakleyTheReader replied to u/Moho17 (2024-10-22T13:40:55+00:00)
+Quoted comment: "Sorc Player here,
+
+It all comes to resources managing. You do not have to go full blast every fight you come across. Some encounters may even be fine with you only casting Cantrips. I know it feels bad comparing to spells but on level 5 it will be more manageable (Cantrips double their dices). Another thing is that you can trade your spells slots for Sorcerer Points and other way around. This combined with Metamagick Adept feat from Tasha’s can give you some more options and breathing room in terms of spell slots.  
+ 
+
+I also think that Sorc works best as a part of multiclassing character. Me for example play Death Domain Cleric 1/Divine Soul Sorcerrer and I am having a blast!"
+Reply: Thanks for the reply, as others and you have rightfully pointed out, "blowing my magical load" should be more strategic, which I agree with, but it feels very sad to cast cantrips all encounter. And multiclasses are great! My Sorlock was one of the best characters I had, unfortunately it wouldn't go over well with the dm if I played a single multiclass all the time, but I'll look into any other options!
+
+→ OakleyTheReader replied to u/Salindurthas (2024-10-22T13:36:30+00:00)
+Quoted comment: ">how to make sorcerer more enduring that isn't just simply having a crumb of self control.
+
+Let's flip the perpsective entirely. 
+
+This is not a question of 'self-control'. Instead, it is a question of **greed**. You want to get *value* out of your spells, so isntead of needing self-control to hold back, you need self-control to not *wait for a better time*.
+
+Your dream scenario in a fight is to cast 1 spell, often a concentration spell (Sleep, Web, Hypnotic Pattern, Fear, Confusion, Wall of Force, etc) that hopefully controls a large group of enemies, and decisively flips the battle in your favour.  And, when you tart a fight, you should think greedily think "ooh, maybe I'll save my level 3 spell slot for then ext fight *in case it is a bigger fight*, and I'll just use a level 2 slot for this fight."
+
+But eventually you will use your big spell. For instance, if you use Hypnotic Pattern to knock out half the enemies, then that makes the rest of your party have somewhere between a 2x or 4x times easier task to win the battle. You then sit back and protect yourself in an effort to keep concentration on, so that the battle stays easy.
+
+This is not self-control, this is the satisfaction of crushing foes with ease by controlling the flow of battle, and greedily getting the most power out of your spell slots as possible.
+
+Now, obviously, we won't manage to have every fight go so smoothly. 
+
+* The enemies might not be grouped up for our control spell.
+* Someone might break our concentration, requiring us to recast.
+* A fight might be tough, and require us to invest more power.
+
+But instead of thinking it in terms of us excercising self-control, think of it as our opponents being such a nuisiance that we have to lift another finger.
+
+Like, suppose you do land a Hypnotic Pattern on turn 1, but halfway through the fight you get hit. Well, you'd invest a Shield spell to try to keep concentration at this point. Maybe they hit you again and you lose concentration. Well, maybe you follow up with a Web to tie up some of the peopel that just woke up. 
+
+-----
+
+Now, in some cases we might deviate from the above.
+
+* Like at level 5&6, as a sorcerer, you probably should be using Fireball in stead of Hypnotic Pattern - killing the enemies dead is a more effective control option than hypnotising them. However, later on in our career, Hyptnoic Pattern will likely be more effective.
+* And arguably at level 3, the new 2024 Cloud of Daggers competes with Web as a damage option isntead of control, although still as a long-term concentration for potentailly the whole fight.
+* And maybe the 2024 Sleep isn't a strong early-game spell anymore due to its smaller range, so your 'control' options at level 1&2 are limited.
+
+But if you gradually shift to this approach of 'greeding' for a bigger spell effect, that might help. 
+
+It shouldn't be the only paradigm you use, but switching to it for a while might help you balance out your tendency to burn through slots ASAP."
+Reply: This is actually an amazing comment, thank you for the explanation! I do think there's also an issue of foresight, because saving up a powerful spell for later use and then long resting with a lvl3 spell slot feels very bad, but I guess its better than being unprepared in that respect.
+
+Thank you for your opening my mind up to greater things!
+
+→ OakleyTheReader replied to u/deleted (2024-10-22T13:25:58+00:00)
+Quoted comment: "Feats that give 1-2 free castings a day (fey feats for example)
+
+In onednd some subclasses may also get similar perks and magic initiate 
+
+Try to mix it up. Have 7 spells saved a day, one for each encounter for concentration
+
+The rest for free use limiting to 1-3 per encounter
+
+Then fill in with cantrips
+
+Summons or 10min-1hour spells can help too stretch your slots out"
+Reply: Summons! Concentration spells are a good idea too, but as for feats, I'm already doubting I could get the ones I desperately need, but I'll see what can be done
+
+→ OakleyTheReader replied to u/lebeast (2024-10-22T13:20:42+00:00)
+Quoted comment: "You shouldn’t be expending a leveled spell every turn. You should be popping down 1 powerful concentration spell on turn one, then sitting back and using your cantrips. Remember, you have other players in your party that can do work also. You don’t need to be the all-star in every combat encounter. But when a situation presents itself that you identify as needing a big burst of magic, no one can beat the sorcerer. Just do it sparingly. 
+
+A blood well vial would also help. See if you can buy one."
+Reply: The powerful concentration spell is part of my plan, but the good ones (mainly haste) are all locked to level 3 spell slots, so not an option currently, the blood well is a really good idea, I didn't know class specific artifacts existed!
+
+→ OakleyTheReader replied to u/Acquilla (2024-10-22T13:17:57+00:00)
+Quoted comment: "Honestly, I can't help but think they might be happier as a warlock. It's fewer slots, yes, but as long as their table will let them have a short rest in between encounters (which, in fairness, is not a given), they'll always be able to nova like they clearly want to."
+Reply: Warlock is a cool option, but on its own it just felt like a ranged martial class for me, it's just casting a cantrip every turn with an occasional spell, two per combat encounter most likely, and casting cantrips all day is the exact thing I'm trying to avoid!
+
+→ OakleyTheReader replied to u/StaticUsernamesSuck (2024-10-22T13:06:49+00:00)
+Quoted comment: "Look, I'm really sorry if this seems mean, but...
+
+https://preview.redd.it/zocqw7x0xawd1.png?width=500&format=png&auto=webp&s=86adb01b34dbe663f8913c8341eb03930846a7be
+
+Saying "it's possible to burn resources fast, therefore it's the class's fault that I burn resources fast", is just like saying "its possible for my car to go 100mph, so it's Toyota's fault I creamed that lady crossing the road".
+
+Basically every resourceful class in the game has ways they *can* burn themselves out in 1-2 encounters. So just... Don't???
+
+If you're a paladin, don't smite goblins. If you're a fighter, don't use Second Wind the second you get hit, and don't Action Surge when saving 1 turn doesn't matter. If you're a bard, don't use Bard Inspiration on every inconsequential roll. If you're a druid, don't waste your wild shape turning into a snail because it's funny.
+
+And if you're a sorcerer, don't put metamagic on every damn spell!!!"
+Reply: I feel like you missed the point of the post a little, for one, I think I made the issue of self control abundantly clear, and asked for advice not concerning that fact, for two, the examples you brought up are all examples of inefficient use of class resources, which is not the issue I'm having. As the parties damage dealer it is my job to do as much damage as possible, as quickly as possible to protect my party from harm, because a dead enemy can't attack a party member and bring down their HP, therefore I don't think you can really count that inefficient use of resources.
+
+My problem with sorcerer is that efficient play (atleast for a damage dealer and not support lore) necessitates feeling a bit useless in subsequent encounters
+
+→ OakleyTheReader replied to u/AnthonycHero (2024-10-22T12:53:44+00:00)
+Quoted comment: "The wizard in your example would still feel useless for the rest of the day after the first fight. Sure they'd have more to do outside of combat, because low level spells bring utility, then there's rituals, etc., but if another fight were to happen they'd be screwed as much as you are.
+
+This is a fundamental part of D&D magic, and while it's true that 5e is more lenient on it than older editions, you can't play a spellcaster effectively if you ignore attrition dynamics and resource management.
+
+If, at level 4, you start a fight and go down a 2nd-level spell slot and 3 sorcery points immediately (which by all means will certainly happen!), you just lay back a bit more the next turn. Use a cantrip, reposition, interact with some object, whatever. A 3rd-level spell with I presume metamagic on top of it at 4th level should have made a big impact anyway already, so it's ok if you throttle down. You can intervene again later with more gas if it's necessary, or if it can spare your allies more resources in return."
+Reply: Hmm, I guess you're right about the wizard, so I'll try to dial down the magic, but cantrips feel very weak compared to even something as simple as hitting my enemy with a weapon, since the attack modifier is the same for me and my fellow fighter friends, but their damage is both higher and more consistent, especially at lower levels, which makes me very sad to have to resort to those...
+
+→ OakleyTheReader replied to u/eLURDOS (2024-10-22T12:39:29+00:00)
+Quoted comment: "finding joy in using your cantrips or a wand of  "X", that you can fire might help. or start investing all your funds in scrolls if you realy want to loose selfcontroll"
+Reply: Good point, draconic sorcerer's do get pretty good with cantrips at level 6, so thats reassuring atleast, as for wands and scrolls, I'll have to ask my dm about that
+
+→ OakleyTheReader replied to u/darw1nf1sh (2024-10-22T12:38:17+00:00)
+Quoted comment: "Are you really using 3 points and a 2nd level slot in the first round of combat? That is like flooring it at every green light, speeding constantly, then wondering why you keep running out of gas so quickly."
+Reply: Again, the issue of self constraint was made evidently clear In the post, but it's still weird to me how I as a sorcerer am allowed to do donuts on the freeway and burn rubber to my heart's content while other classes have to follow traffic rules.
+
+────────────────────────────────────────────────────────────────────────

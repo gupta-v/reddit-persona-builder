@@ -1,0 +1,20 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+# LangGraph
+langgraph
+
+# Reddit API Scrapping
+praw
+
+# Logs
+logging
+
+# Environment Variables
+python-dotenv
+
+# Web Application
+streamlit
