@@ -223,7 +223,7 @@ Each section includes 4-5 bullet points with specific citations in the format:
 ### Input
 
 ```
-https://www.reddit.com/user/kojied/
+https://www.reddit.com/user/OakleyTheReader/
 ```
 
 ### Output Structure
