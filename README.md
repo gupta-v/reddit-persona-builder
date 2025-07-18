@@ -20,8 +20,8 @@ reddit-persona-builder/
 │   ├── scraping_agent.py                         # Orchestrates data scraping
 │   ├── cleaning_agent.py                         # Cleans and structures raw data
 │   ├── draft_persona_agent.py                    # Generates initial persona draft
-│   ├──  persona_building_agent.py                # Creates final structured persona
-|   └── test_agents.py                            # Sequential agent testing
+│   ├── persona_building_agent.py                 # Creates final structured persona
+│   └── test_agents.py                            # Sequential agent testing
 ├── scrapers/
 │   ├── reddit_comment_scraper.py                 # Scrapes user comments
 │   └── reddit_post_scraper.py                    # Scrapes user posts
@@ -33,14 +33,15 @@ reddit-persona-builder/
 │   ├── cleaned/                                  # Cleaned JSON data
 │   ├── drafts/                                   # Draft personas
 │   └── persona/                                  # Final personas
-|-- app/
-|   └── streamlit-app.py                          # Web interface
+├── app/
+│   └── streamlit-app.py                          # Web interface
 ├── main.py                                       # LangChain pipeline interface
 ├── .env.example                                  # Environment variables template
-|-- .gitignore                                    # Git ignore file
-|-- Generative_AI_Internship_Assignment.pdf       # Project definition
-|-- personaExample.webp                           # Example persona image
-└── README.md                                     # This file
+├── .gitignore                                    # Git ignore file
+├── Generative_AI_Internship_Assignment.pdf       # Project definition
+├── personaExample.webp                           # Example persona image
+└── README.md                                     # Documentation
+
 ```
 
 ## 🛠️ Installation
@@ -128,7 +129,7 @@ This uses LangChain's LCEL (LangChain Expression Language) for a more structured
 ### Method 3: Streamlit Web Interface
 
 ```bash
-streamlit run streamlit-app.py
+streamlit run app/streamlit-app.py
 ```
 
 Access the web interface at `http://localhost:8501`
