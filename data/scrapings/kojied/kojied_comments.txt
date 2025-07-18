@@ -1,0 +1,345 @@
+Reddit User: kojied
+Fetched on: 2025-07-18T10:33:13.225658+00:00
+
+Post 1:
+Title: "My granary burned down"
+Subreddit: r/ManorLords
+Permalink: https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/
+Body:
+I built it next to a well, and it was raining. But there was no saving it and all the food I stored for years. Worst of all, my ale burned up! Now my peasants are sober and hungry
+
+→ kojied commented on post (2025-07-12T16:29:18+00:00)
+Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey.
+Also I just store ale at the tavern or keep it in the brewery for this reason
+
+────────────────────────────────────────────────────────────────────────
+Post 2:
+Title: "Anyone else having an issue where their trading posts randomly disconnect from the road network?"
+Subreddit: r/ManorLords
+Permalink: https://reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/
+Body:
+https://preview.redd.it/fnerx9apc2cf1.png?width=1252&format=png&auto=webp&s=5526f12aeeaaeb9d70eef0da9174078fd4a4871c
+
+As you can see it says that it is disconnected from the Kings road but the road it is on connects directly to two different Kings Roads and it has been receiving trade from it.
+
+https://preview.redd.it/igiia0g8d2cf1.png?width=892&format=png&auto=webp&s=f07add11da234d56c67e77f8f35eaaed2cc1427f
+
+
+
+→ kojied commented on post (2025-07-10T15:23:28+00:00)
+Yeah but it doesn’t seem to affect much though
+
+────────────────────────────────────────────────────────────────────────
+Post 3:
+Title: "I used AI to create this short film on human cloning (600 prompts, 12 days, $500 budget)"
+Subreddit: r/ChatGPT
+Permalink: https://reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/
+
+→ kojied replied to u/Sourcecode12 (2025-07-10T04:04:47+00:00)
+Quoted comment: "**AI tools used to make this short film:**
+
+* **Image Generation:** Whisk, Runway, Midjourney, Dreamina, Sora
+* **Video Generation:** FLOW & Veo 3, Dreamina, HIGGSFIELD, Kling AI
+* **Voice Generation:** ElevenLabs
+* **Lip Sync:** FLOW & Veo 3, Dreamina, HeyGen
+* **Music Generation:** Suno AI
+* **Sound FX Generation:** MMAudio, ElevenLabs
+* **Prompt Optimization:** ChatGPT"
+Reply: Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?
+
+────────────────────────────────────────────────────────────────────────
+Post 4:
+Title: "Great game, i hope there is something new added in future updates."
+Subreddit: r/ManorLords
+Permalink: https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/
+
+→ kojied replied to u/tanjonaJulien (2025-07-05T17:48:07+00:00)
+Quoted comment: "I'm at 200H and still playing to relax."
+Reply: I do too but I rarely finish a game haha. Too little late game content
+
+→ kojied replied to u/tanjonaJulien (2025-07-05T17:45:41+00:00)
+Quoted comment: "I'm at 200H and still playing to relax."
+Reply: I do too but I rarely finish a game haha. Too little late game content
+
+────────────────────────────────────────────────────────────────────────
+Post 5:
+Title: "How does influence on hard work?"
+Subreddit: r/ManorLords
+Permalink: https://reddit.com/r/ManorLords/comments/1lscpmo/how_does_influence_on_hard_work/
+Body:
+On difficulty hard I've received no influence for a church level 1, taking bandit camps nor for killing enemies. Is this normal?
+
+→ kojied commented on post (2025-07-05T15:41:31+00:00)
+You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation).
+
+────────────────────────────────────────────────────────────────────────
+Post 6:
+Title: "This is... acceptable."
+Subreddit: r/ManorLords
+Permalink: https://reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/
+
+→ kojied commented on post (2025-07-02T20:26:33+00:00)
+That proximity is ridiculous, deep mining, two fishing huts, vegetable, orchards, and trade iron for malt.
+imo trading raw materials is easier than trading crafted goods in the current build. High quantity stuff is easy to stock, and you could have multiple trading posts up without any major issues.
+The exact opposite of this is plate armor. It takes forever to build, requires three points, and needs eight iron slabs to make it. It’s cheaper to just export the ore, and since it’s a low quantity trade, it’s hard to stick multiple trade posts with it
+
+────────────────────────────────────────────────────────────────────────
+Post 7:
+Title: "Confession"
+Subreddit: r/ManorLords
+Permalink: https://reddit.com/r/ManorLords/comments/1ljgy2w/confession/
+Body:
+[deleted]
+
+→ kojied commented on post (2025-06-25T12:31:13+00:00)
+Yeah I was doing alright and then as soon as I upgraded to tier 3 my town was in shambles. I didn’t notice how demanding it was going to be
+
+────────────────────────────────────────────────────────────────────────
+Post 8:
+Title: "Am I doing something wrong with food management? I never have meat or eggs."
+Subreddit: r/ManorLords
+Permalink: https://reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/
+
+→ kojied commented on post (2025-06-23T14:33:31+00:00)
+So in general each family will eat each type of food equally. Which means those with low supply are more likely to be consumed first.
+
+Eggs I believe each plot only produces one per month, so it's helpful, but won't be sufficient to maintain food diversity
+
+────────────────────────────────────────────────────────────────────────
+Post 9:
+Title: "The ability to Combine Regions or make AI-vassal regions would be nice - I don’t really like controlling more than one city."
+Subreddit: r/ManorLords
+Permalink: https://reddit.com/r/ManorLords/comments/1lg0qii/the_ability_to_combine_regions_or_make_aivassal/
+
+→ kojied commented on post (2025-06-20T17:49:21+00:00)
+I build my cities close to the borders of others, that way I'm not managing multiple cities at once. The best is building it at the three-way border. That way you're basically managing three cities at once.
+
+────────────────────────────────────────────────────────────────────────
+Post 10:
+Title: "If you had to spend one full day eating your way through NYC, what would your breakfast, lunch, afternoon coffee/snack, and dinner be?"
+Subreddit: r/FoodNYC
+Permalink: https://reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/
+Body:
+Imagine you had one full day in NYC with nothing to do but eat. What would your perfect lineup look like?  
+I’m talking: breakfast, lunch, afternoon coffee or snack and dinner.
+
+All in one day. Distance between places doesn’t matter. Just your NYC food crawl, even if it takes you from Staten Island to the Bronx and back.
+
+I’m curious what a perfect (and totally indulgent) food day would look like through the eyes of locals.
+
+→ kojied commented on post (2025-06-15T16:21:32+00:00)
+Breakfast - Buvette
+
+Coffee - Lyria
+
+Lunch - Tsukemen okiboru
+
+Coffee - La cabra
+
+Dinner - Isodi
+
+Drinks - Double chicken please
+
+────────────────────────────────────────────────────────────────────────
+Post 11:
+Title: "NFTs in 2025: Where Are We Headed?"
+Subreddit: r/NFT
+Permalink: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/
+Body:
+[removed]
+
+→ kojied commented on post (2025-06-03T17:47:54+00:00)
+\- the hype has definitely faded, you can see that with the price as well as the number of people discussing it on X, or even here  
+\- haven't seen much innovation in the space at all, the momentum seems to have shifted to solana memecoins, and dissipated after that  
+\- again, people no longer seem interested. I found linksDAO to be an interesting concept of fractionally owning a golf course, and they're still active but not much hype around them anymore either. Most major brand NFT collaborations have died down as well  
+\- the NFT craze has not settled into something sustainable, it's dead. Can it come back? Possibly, it has happened before, when cryptopunks and cryptokitties were first hot in 2017-ish, then died, then came back during 2020-2022.  
+\- will there be a big boom? I personally don't think it would in the way we think of NFTs as collectables. A major thesis was around digital scarcity, and that seemed possible during covid, but post covid people went back to f2f interactions. Digital scarcity could become a hot topic again if we see a broader adoption of VR or even XR, but that seems a bit down the line. I think fractional ownership of assets could be interesting, but they'd just be fungible tokens, not NFT
+
+I see so many one-off posts on this community with only a couple responses. Can't believe there's 2.7M members here. That alone should tell you that NFTs are no longer something people are interested in. I'd love to be proven wrong, since I feel that there was alot of potential, but so far it seems like the community is dead
+
+────────────────────────────────────────────────────────────────────────
+Post 12:
+Title: "Do you think millennials generally look younger than they really are, and if so, why do you think that is?"
+Subreddit: r/AskReddit
+Permalink: https://reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/
+
+→ kojied commented on post (2025-05-30T15:12:38+00:00)
+Millenials have less kids, so they have more time and money to spend on themselves. Millenials are also getting married less and later in life, meaning we allocate more effort on self care
+
+────────────────────────────────────────────────────────────────────────
+Post 13:
+Title: "What happened on the first date that made you realise there won't be a 2nd?"
+Subreddit: r/AskReddit
+Permalink: https://reddit.com/r/AskReddit/comments/1ksghx5/what_happened_on_the_first_date_that_made_you/
+
+→ kojied commented on post (2025-05-22T15:02:53+00:00)
+I wore a toga. she showed up in regular clothes
+
+────────────────────────────────────────────────────────────────────────
+Post 14:
+Title: "Anyone want this subway token wallet?"
+Subreddit: r/nycrail
+Permalink: https://reddit.com/r/nycrail/comments/1kplupt/anyone_want_this_subway_token_wallet/
+
+→ kojied commented on post (2025-05-18T19:21:37+00:00)
+Sent dm!
+
+────────────────────────────────────────────────────────────────────────
+Post 15:
+Title: "i've been ripping on that part of zoro's backstory for literal DECADES, i must know if this is bullshit or not"
+Subreddit: r/OnePiece
+Permalink: https://reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/
+
+→ kojied commented on post (2025-05-18T04:24:10+00:00)
+Closest expression is naraku ochi 奈落落ち which means falling from the stage, used in kabuki. It’s a way to say going to hell, but neither the literal translation nor the actual meaning is an expression for child suicide.
+Source: I’m Japanese
+
+────────────────────────────────────────────────────────────────────────
+Post 16:
+Title: "Spotted at my local Heiwado"
+Subreddit: r/OnePiece
+Permalink: https://reddit.com/r/OnePiece/comments/1kalm70/spotted_at_my_local_heiwado/
+
+→ kojied commented on post (2025-04-29T14:53:45+00:00)
+Fyi it says
+“Dear mom, everything I encounter from now is thanks to you”
+(It’s a Mother’s Day special chocolate)
+
+────────────────────────────────────────────────────────────────────────
+Post 17:
+Title: "Here's how I make use of the different modes in Roo code."
+Subreddit: r/RooCode
+Permalink: https://reddit.com/r/RooCode/comments/1jwf8oq/heres_how_i_make_use_of_the_different_modes_in/
+
+→ kojied commented on post (2025-04-11T04:40:45+00:00)
+how did you make that diagram? I've been doing it in ascii lol
+
+────────────────────────────────────────────────────────────────────────
+Post 18:
+Title: "To me the most impressive new feature is the character consistency"
+Subreddit: r/ChatGPT
+Permalink: https://reddit.com/r/ChatGPT/comments/1jpagk5/to_me_the_most_impressive_new_feature_is_the/
+
+→ kojied commented on post (2025-04-02T20:21:41+00:00)
+It’s pretty hard to get consistent characters when they’re photorealistic tbh. I guess our eyes are more lenient when it’s cartoon.
+Any tips for photo realism would be appreciated!
+
+────────────────────────────────────────────────────────────────────────
+Post 19:
+Title: "Rate my Starting Locaiton"
+Subreddit: r/civ5
+Permalink: https://reddit.com/r/civ5/comments/1jlw2ao/rate_my_starting_locaiton/
+
+→ kojied commented on post (2025-03-28T15:17:05+00:00)
+Can’t really discuss this without your strategy. If you’re setting up on the coast over river, your strategy must involve maritime trades. Also means you benefit from other cities being on the coast. It also means you need some navy to protect your shipping routes and coastal cities.
+
+────────────────────────────────────────────────────────────────────────
+Post 20:
+Title: "I cant believe I made it do this. NOTE: I do not endorse this painter or his thought!!"
+Subreddit: r/ChatGPTJailbreak
+Permalink: https://reddit.com/r/ChatGPTJailbreak/comments/1jliha3/i_cant_believe_i_made_it_do_this_note_i_do_not/
+
+→ kojied commented on post (2025-03-28T03:43:33+00:00)
+imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted
+
+────────────────────────────────────────────────────────────────────────
+Post 21:
+Title: "Which game proves that graphics aren't everything?"
+Subreddit: r/AskReddit
+Permalink: https://reddit.com/r/AskReddit/comments/1iz0bzi/which_game_proves_that_graphics_arent_everything/
+
+→ kojied commented on post (2025-02-27T01:06:06+00:00)
+Surprised I don’t see project zomboid. Graphics are retro but the game is so well made. Who knew that you needed a pipe wrench (instead of a regular wrench) to plumb the sink!
+
+────────────────────────────────────────────────────────────────────────
+Post 22:
+Title: "Just laid off. What daytime NYC stuff should I do?"
+Subreddit: r/AskNYC
+Permalink: https://reddit.com/r/AskNYC/comments/1iypf3t/just_laid_off_what_daytime_nyc_stuff_should_i_do/
+Body:
+I'm a lifelong New Yorker and just got laid off by surprise. What should I do with my jobless interlude? I know there's going to the usually-crowded museums during tourist hours. What else would you do with an involuntary staycation?
+
+→ kojied commented on post (2025-02-26T18:49:51+00:00)
+Daytime bathhouse
+
+────────────────────────────────────────────────────────────────────────
+Post 23:
+Title: "Dude tf"
+Subreddit: r/civ5
+Permalink: https://reddit.com/r/civ5/comments/1iuhdh9/dude_tf/
+
+→ kojied commented on post (2025-02-21T03:46:29+00:00)
+This happens when you are in an advanced technological era than the AI. You can adjust to only give them gold, or other resources which you might not need (e.g. iron/coal).
+
+────────────────────────────────────────────────────────────────────────
+Post 24:
+Title: "Gamers, dont say the title of the game, but what game is instantly recognized by one quote?"
+Subreddit: r/AskReddit
+Permalink: https://reddit.com/r/AskReddit/comments/1i6rkdz/gamers_dont_say_the_title_of_the_game_but_what/
+
+→ kojied commented on post (2025-01-22T01:38:10+00:00)
+Would you be interested in a trade agreement with England?
+
+────────────────────────────────────────────────────────────────────────
+Post 25:
+Title: "Nuclear hot take on Reddit"
+Subreddit: r/ChatGPT
+Permalink: https://reddit.com/r/ChatGPT/comments/1i2pwva/nuclear_hot_take_on_reddit/
+
+→ kojied commented on post (2025-01-16T15:41:53+00:00)
+Sounds like X
+
+────────────────────────────────────────────────────────────────────────
+Post 26:
+Title: "Can someone explain why Lindy is out there over Kyle?"
+Subreddit: r/warriors
+Permalink: https://reddit.com/r/warriors/comments/1hq7r88/can_someone_explain_why_lindy_is_out_there_over/
+Body:
+I'm still trying to figure out what Kerr see's in him over Kyle. Spacing? 3 ball? The man is shooting 33%
+
+If you're going to put a brick layer out there, might as well put someone who can actually defend and playmake. Play moody at the 2, and run Kyle at the 3.
+
+It sucks because Kyle would undoubtly provide much more valuable minutes than the ones we get with Lindy and Kerr's dumbass 3 guard roatation...
+
+
+
+→ kojied commented on post (2024-12-31T16:54:22+00:00)
+He used to shoot well and have impact when no one had him on the radar, and opponents didn’t have him on their scouting report.
+Now that there’s pressure to perform, and opponents develop plans on how to deal with him, he’s not doing so well.
+
+Really shows how hard it is to perform when the lights are bright and people are counting on your 3s
+
+────────────────────────────────────────────────────────────────────────
+Post 27:
+Title: "Ridiculous Question: anybody know where in Chelsea I could see the most pigeons?"
+Subreddit: r/AskNYC
+Permalink: https://reddit.com/r/AskNYC/comments/1hpnjqr/ridiculous_question_anybody_know_where_in_chelsea/
+Body:
+I’m in town with my niece and all she seems to be interested in is pigeons. i’m just here to show her a good time, so does anyone have the scoop on pigeons? 
+
+anywhere i could get some staple clothing for her? 
+
+→ kojied commented on post (2024-12-30T14:40:27+00:00)
+Not in Chelsea but Washington square park has the pigeon whisperer. Bear in mind he’s definitely eccentric and curses a lot so might not be a family friendly guy to talk to.
+Also the corner of 46th and 6Av always has insane number of pigeons. Like a lot.
+
+────────────────────────────────────────────────────────────────────────
+Post 28:
+Title: "Forward Settle on Deity "
+Subreddit: r/civ5
+Permalink: https://reddit.com/r/civ5/comments/1hp1es7/forward_settle_on_deity/
+
+→ kojied commented on post (2024-12-29T18:08:57+00:00)
+Also left, considering there’ll be an awkward gap between your 3rd city, where AI civs will most likely try to spam settlers into if you’re not careful
+
+────────────────────────────────────────────────────────────────────────
+Post 29:
+Title: "If you could be born again, which country would you want to be born to?"
+Subreddit: r/AskReddit
+Permalink: https://reddit.com/r/AskReddit/comments/1hoydmz/if_you_could_be_born_again_which_country_would/
+
+→ kojied replied to u/Ic3Hot (2024-12-29T16:12:08+00:00)
+Quoted comment: "Says the very unbiased Dane"
+Reply: Is this r/2nordic4you
+
+────────────────────────────────────────────────────────────────────────

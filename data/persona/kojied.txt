@@ -1,0 +1,47 @@
+# Persona: kojied
+
+https://www.reddit.com/user/kojied/
+## Basic Info
+- Username: kojied
+- Age: Late 20s to early 30s
+- Occupation: iOS Developer
+- Status: Active in tech communities
+- Location: Unknown
+- Tier: Tech-savvy
+- Archetype: Early adopter of new technology
+
+## Personality
+- Enthusiastic about PC gaming and graphics quality [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+- Informative and conversational tone, often seeking community feedback [Source: r/unknown - "I'm confident that this will eventually become a thing, but the faster they ship the more AVP adoption we'll see"]
+- Interested in Pokémon and augmented reality (AR) [Source: r/unknown - "I think Pokemon could be one of the killer use case for the vision pro"]
+- Polite and concerned when seeking help for plants [Source: r/plantclinic - Post about English ivy withering]
+- Proactive in solving problems, like addressing plant issues [Source: r/plantclinic - English ivy post]
+
+## Motivations
+- Passionate about urban biking and sharing informative content [Source: r/NYCbike - Post about a documentary on YouTube]
+- Desires to create positive change through environmental and social responsibility [Source: r/unknown - Post about ESG ratings and consumer awareness]
+- Motivated by a desire to integrate new technology into their workflow [Source: r/unknown - "I already dropped $4k on this device, renewing my MBP just so I can use it with my AVP is asking a bit too much…"]
+- Values good customer service and is vocal about their experiences [Source: r/Lyft - Post about Lyft bike support]
+- Enthusiastic about PC gaming and graphics quality [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+## Behaviour & Habits
+- Actively participates in niche communities like r/plantclinic and r/NYCbike [Source: r/plantclinic - Multiple posts]
+- Shares resources and seeks advice, indicating active participation [Source: r/NYCbike - Documentary post]
+- Proactive in solving problems, like addressing plant issues [Source: r/plantclinic - English ivy post]
+- Enjoys sharing informative content, contributing positively [Source: r/NYCbike - Documentary post]
+- Actively posts in niche subreddits, contributing to discussions [Source: r/plantclinic - Multiple posts]
+
+## Frustrations
+- Frustration with Lyft's customer service [Source: r/Lyft - Post about Lyft bike support]
+- Challenges in using Vision Pro for work without essential tools like GitHub and Visual Studio Code [Source: r/unknown - "I’ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it’s not been the easiest (also obviously no terminal)"]
+- Frustration with the lack of late-game content in games [Source: Comment on not finishing games]
+
+## Goals & Needs
+- To integrate Vision Pro into their workflow [Source: r/unknown - "I already dropped $4k on this device, renewing my MBP just so I can use it with my AVP is asking a bit too much…"]
+- To see Pokémon as a killer use case for Vision Pro [Source: r/unknown - "I think Pokemon could be one of the killer use case for the vision pro"]
+- To improve their plant care skills [Source: r/plantclinic - Post about English ivy withering]
+- To engage with the community and share experiences [Source: r/NYCbike - Post about a documentary on YouTube]
+- To create positive change through environmental and social responsibility [Source: r/unknown - Post about ESG ratings and consumer awareness]
+
+## Representative Quote
+"I think Pokemon could be one of the killer use case for the vision pro." [Source: r/unknown - Comment about Pokémon and Vision Pro]

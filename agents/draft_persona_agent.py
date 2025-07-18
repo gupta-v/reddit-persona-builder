@@ -28,8 +28,8 @@ llm_models = [
 
 def split_text(
     text: str,
-    chunk_size: int = 2000,
-    chunk_overlap: int = 200
+    chunk_size: int = 1800,
+    chunk_overlap: int = 100
 ) -> List[str]:
     """
     Split the text into chunks of a given size and overlap.

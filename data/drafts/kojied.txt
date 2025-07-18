@@ -1,0 +1,210 @@
+🧠 Persona for kojied:
+
+<think>
+Okay, I need to analyze the Reddit user 'kojied' based on the provided data. Let me start by reading through the posts and comments to extract key traits.
+
+First, looking at the posts. The user talks about feeling out of place at a bar, being called "old," and noticing many young people. This suggests they might be older than the crowd they encountered. They also mention feeling violated by the situation, which indicates some discomfort with the changing environment.
+
+In the comments, I notice they discuss strategies for managing resources in a game, mentioning granaries, berries, deer, etc. This shows they play strategy or city-building games. They also talk about maintaining character consistency in some kind of generation, possibly using image-to-video features, which hints at creative or technical skills.
+
+They mention not finishing games due to lack of late-game content, indicating they might be a gamer but not necessarily someone who completes every game they start. There are discussions about game mechanics, like managing cities near borders, which suggests they play games that involve city-building or management.
+
+They also comment on millennials having more time and money, which could relate to their views on social trends. Wearing a toga versus regular clothes in another context shows a sense of humor or maybe a contrast in social situations.
+
+Looking at their communication style, they seem descriptive in their posts, explaining their feelings and experiences. In comments, they're helpful, offering advice on game strategies. They also use sarcasm when they mention wearing a toga while someone else didn't.
+
+Their topics of interest include nightlife, gaming, and social observations. They use a mix of casual and descriptive language, sometimes with a humorous or sarcastic tone. They participate actively in communities, offering advice and sharing experiences.
+
+I should organize these observations into the key traits: age indicators, tone, topics, language, opinions, community participation, behavior, social views, humor, and technical knowledge. Each point needs a specific citation from their posts or comments.
+
+Wait, I should make sure each bullet point is concise and properly cites the source. Let me go through each trait one by one and back them up with quotes or contexts from the data.
+</think>
+
+- **Age Indicators**: The user expresses feeling out of place among younger crowds and being called "old," suggesting they may be older than those they encountered.
+  [Source: Post describing feeling out of place at a bar]
+
+- **Tone and Communication Style**: They use descriptive storytelling in posts and a helpful tone in comments, offering game strategy advice.
+  [Source: Post about the bar experience; Comments on game management]
+
+- **Topics of Interest**: Engages with nightlife, gaming (especially strategy and city-building), and social observations.
+  [Source: Post about bar experience; Comments on game mechanics]
+
+- **Language Patterns**: Uses a mix of casual and descriptive language, with occasional humor.
+  [Source: Post about bar experience; Comment on wearing a toga]
+
+- **Opinions and Viewpoints**: Comments on social trends, such as millennials having more disposable income.
+  [Source: Comment on millennials' spending habits]
+
+- **Community Participation**: Actively engages by offering advice and sharing experiences in comments.
+  [Source: Comments on game strategies and resource management]
+
+- **Behavioral Patterns**: Enjoys gaming but may not always finish games due to lack of late-game content.
+  [Source: Comment on not finishing games]
+
+- **Political/Social Views**: Observes societal changes, like increased focus on self-care and shifts in nightlife dynamics.
+  [Source: Post about young people in nightlife; Comment on millennials]
+
+- **Humor/Sarcasm Usage**: Uses sarcasm and humor, such as the toga comment.
+  [Source: Comment on wearing a toga]
+
+- **Technical Knowledge**: Discusses game mechanics and resource management, suggesting strategic thinking.
+  [Source: Comments on game mechanics and city management]
+
+---
+
+Here are the key inferences about the Reddit user 'kojied' with specific citations:
+
+* Age indicators: The user appears to be interested in topics related to Gen-Z, such as coming-of-age movies for their generation [Source: r/AskReddit - Post "There's so many coming of age movies for boomers and millennials, what about for gen-Z?"].
+* Tone and communication style: The user's tone is conversational and inquiring, often asking questions or seeking opinions from others [Source: r/AskReddit - Post "H1B holders, what are your thoughts on the narrative that you are being exploited?"].
+* Topics of interest: The user is interested in technology, particularly spatial computing and visionOS, as well as iOS development [Source: r/VisionPro - Post "Spacial tours with 3D map and 360˚ video"].
+* Language patterns: The user occasionally uses Japanese phrases, such as "naraku ochi" [Source: r/Unknown - Comment "Closest expression is naraku ochi 奈落落ち which means falling from the stage, used in kabuki."].
+* Opinions and viewpoints: The user seems to be open-minded and willing to consider different perspectives, asking questions about H1B holders' experiences and thoughts on exploitation [Source: r/AskReddit - Post "H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?"].
+* Community participation: The user is active in the VisionPro community, sharing links and asking for recommendations on resources for spatial computing [Source: r/VisionPro - Post "Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?"].
+* Behavioral patterns: The user tends to share their thoughts and opinions in a straightforward manner, without being overly aggressive or confrontational [Source: r/AskReddit - Comment "I wore a toga. she showed up in regular clothes"].
+* Political/social views: The user does not express strong political or social views, but appears to be interested in discussing topics related to immigration and work visas [Source: r/AskReddit - Post "H1B holders, what are your thoughts on the narrative that you are being exploited?"].
+* Humor/sarcasm usage: The user occasionally uses humor or sarcasm, such as when commenting on the reliability of information on the internet [Source: r/Unknown - Comment "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted"].
+* Technical knowledge: The user has technical knowledge of programming, iOS development, and spatial computing, as well as experience with ASCII art [Source: r/Unknown - Comment "how did you make that diagram? I've been doing it in ascii lol"].
+
+---
+
+Here are the key inferences about the Reddit user kojied:
+
+**Age indicators:**
+* Late 20s to early 30s: The user is familiar with PC gaming and has a high-end setup, suggesting they have been involved in the gaming community for some time. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+**Tone and communication style:**
+* Friendly and casual: The user's tone is relaxed and conversational, using phrases like "Hi guys" to address the community. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+**Topics of interest:**
+* Gaming: Specifically, PC gaming and graphics quality, as evidenced by the post about watching Edgerunners on the moon. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+* Technology: The user is interested in tech, mentioning their Mac and display setup as a comparison to their preferred gaming setup. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+**Language patterns:**
+* Informal language: The user uses colloquial expressions and abbreviations (e.g., "Give it a try"), indicating a relaxed and casual writing style. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+**Opinions and viewpoints:**
+* Enthusiastic about PC gaming: The user is excited to share their experience watching Edgerunners on the moon and encourages others to try it. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+**Community participation:**
+* Active in niche communities: The user participates in the VisionPro subreddit, which suggests they are interested in specific topics and engage with like-minded individuals. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+**Behavioral patterns:**
+* Shares personal experiences: The user is willing to share their personal experiences and opinions with the community, indicating a level of comfort and trust. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+**Political/social views:**
+* None evident: There is no indication of the user's political or social views in the provided data.
+
+**Humor/sarcasm usage:**
+* None evident: There is no indication of the user's use of humor or sarcasm in the provided data.
+
+**Technical knowledge:**
+* Familiarity with PC gaming hardware: The user mentions their Mac and display setup, suggesting they have a basic understanding of computer hardware. [Source: r/VisionPro - "Watching Edgerunners on the moon feels" post]
+
+Please note that these inferences are based on a limited dataset and may not be comprehensive or entirely accurate.
+
+---
+
+Based on the provided data, here are the key inferences about the Reddit user kojied:
+
+* **Technical knowledge**: The user appears to have a good understanding of technology, specifically Apple's Vision Pro (AVP) and its limitations. [Source: r/unknown - "I’ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it’s not been the easiest (also obviously no terminal)"]
+* **Topics of interest**: The user is interested in Pokémon, augmented reality (AR), and technology, specifically Apple's Vision Pro. [Source: r/unknown - "I think Pokemon could be one of the killer use case for the vision pro"]
+* **Tone and communication style**: The user's tone is generally informative and conversational, with a hint of enthusiasm. [Source: r/unknown - "I'm confident that this will eventually become a thing, but the faster they ship the more AVP adoption we'll see"]
+* **Language patterns**: The user uses technical terms and abbreviations, such as "AVP", "ARDK", and "MBP", indicating a familiarity with tech jargon. [Source: r/unknown - "I believe it's a matter of time until Niantic's Lightship ARDK will work on AVP"]
+* **Opinions and viewpoints**: The user believes that Pokémon could be a key use case for the Vision Pro and that Apple needs to improve the device's software to make it a viable work device. [Source: r/unknown - "What should I tell them? Lmk if you have thoughts or useful links/videos I should forward to them"]
+* **Age indicators**: There are no direct age indicators, but the user's familiarity with Pokémon and their professional connections in the Japanese tech industry may suggest a user in their 20s or 30s. [Source: r/unknown - "Being Japanese, I happen to know a few key decision makers both in the Pokemon Company as well as Niantic"]
+* **Community participation**: The user is seeking feedback and thoughts from others on their ideas, indicating a willingness to engage with the community. [Source: r/unknown - "Lmk if you have thoughts or useful links/videos I should forward to them"]
+* **Behavioral patterns**: The user appears to be an early adopter of new technology, having purchased the Vision Pro and seeking to integrate it into their workflow. [Source: r/unknown - "I already dropped $4k on this device, renewing my MBP just so I can use it with my AVP is asking a bit too much…"]
+* **Political/social views**: There are no explicit political or social views expressed in the provided data.
+* **Humor/sarcasm usage**: The user's tone is generally serious, but they do use a sarcastic tone when discussing the limitations of the Vision Pro. [Source: r/unknown - "renewing my MBP just so I can use it with my AVP is asking a bit too much…"]
+
+---
+
+Here are the key inferences about the Reddit user "kojied":
+
+* **Age indicators**: The user appears to be familiar with the concept of "our generation" and mentions new additions to the language, suggesting they are likely an adult or young adult who is aware of linguistic and cultural trends. [Source: r/? - Post about new additions to the language, including "anti-work", "curry laksa", etc.]
+* **Tone and communication style**: The user's tone is somewhat conspiratorial and assertive, as they present a narrative about the "birth of Western history" and the role of the US in causing instability. [Source: r/? - Post about the birth of Western history and the US causing instability]
+* **Topics of interest**: The user is interested in history, archaeology, and the interpretation of historical artifacts. They also appear to be interested in linguistics and the evolution of language. [Source: r/? - Post about the definition of "archaeology" and new additions to the language]
+* **Language patterns**: The user uses a formal or somewhat academic tone, referencing specific dates and events (e.g. the Oxford English Dictionary defining "archaeology" in 1824). They also use colloquial expressions and slang (e.g. "fugazi", "stonkingly"). [Source: r/? - Post about the definition of "archaeology" and new additions to the language]
+* **Opinions and viewpoints**: The user has a critical view of the US and its role in shaping global events, suggesting that it has been trying to "cause instability" and "destroy historical artifacts". [Source: r/? - Post about the US causing instability and destroying historical artifacts]
+* **Community participation**: There is no clear evidence of the user's community participation, as the provided data only includes a single post and no comments. 
+* **Behavioral patterns**: The user's writing style suggests that they may be prone to presenting unconventional or contrarian viewpoints. [Source: r/? - Post about the birth of Western history and the US causing instability]
+* **Political/social views**: The user's views appear to be critical of Western power structures and the US, suggesting that they may hold anti-imperialist or anti-establishment views. [Source: r/? - Post about the US causing instability and destroying historical artifacts]
+* **Humor/sarcasm usage**: The user's tone is generally serious, but they do use colloquial expressions and slang, which may suggest a dry or ironic sense of humor. [Source: r/? - Post about new additions to the language, including "fugazi", "stonkingly", etc.]
+* **Technical knowledge**: The user appears to have some knowledge of archaeology and the history of the field, as well as linguistics and the evolution of language. [Source: r/? - Post about the definition of "archaeology" and new additions to the language]
+
+---
+
+<think>
+Alright, let's tackle this analysis of the Reddit user kojied. I'm going to go through each of the key traits one by one, looking at the posts provided to gather insights. 
+
+First, I'll check for age indicators. The posts don't mention age directly, but the topics might hint at it. They're interested in plants and biking, which are common for various age groups, but maybe someone in their mid to late twenties or older since they're managing plants and actively biking.
+
+Next, tone and communication style. Looking at the plant clinic posts, they seem concerned and seeking help, which suggests a polite and community-oriented style. They also shared a YouTube video, which might indicate they like to contribute helpful content.
+
+For topics of interest, it's clear they're into plants and urban biking. They posted in plantclinic multiple times and also in NYCbike, sharing a documentary. That shows a strong interest in both areas.
+
+Language patterns: They ask questions and seek advice, which means they're interactive and possibly value community input. They also shared resources, so they might be someone who likes to both ask and provide information.
+
+Opinions and viewpoints: They expressed frustration with Lyft's support, which indicates they value good customer service and might be vocal about their experiences with companies.
+
+Community participation is evident as they actively post in specific subreddits, engaging with others by sharing content and seeking advice. This suggests they're an active and contributing member.
+
+Behavioral patterns show they're proactive in solving problems, like when they asked about their English ivy. They also like to share informative content, which is a positive behavior in online communities.
+
+I don't see any political or social views mentioned in the posts, so I might skip that unless there's something subtle I'm missing. 
+
+Humor or sarcasm isn't really present in the provided posts. They seem straightforward and serious in their inquiries and shares.
+
+Lastly, technical knowledge: They might have some knowledge about plants and biking, but it's not overly technical. They're more into practical advice and sharing resources rather than deep technical discussions.
+
+Putting it all together, kojied seems like a community-focused, proactive individual with interests in urban plants and biking, who values good service and is active in online forums.
+</think>
+
+- **Age Indicators**:  
+  - Likely an adult, possibly in their mid to late twenties or older, as they manage plants and are active in urban biking. [Source: r/plantclinic - Post about English ivy withering]  
+  - Experience with plants and biking suggests someone with some life experience. [Source: r/NYCbike - Post about a documentary on YouTube]
+
+- **Tone and Communication Style**:  
+  - Polite and concerned when seeking help for plants. [Source: r/plantclinic - Post about English ivy withering]  
+  - Engaging and informative when sharing content, such as a documentary. [Source: r/NYCbike - Post about a documentary on YouTube]
+
+- **Topics of Interest**:  
+  - Interested in plant care, as evidenced by multiple posts in r/plantclinic. [Source: r/plantclinic - Posts about English ivy and Creepy Charlie]  
+  - Passionate about urban biking, sharing a documentary on the topic. [Source: r/NYCbike - Post about a documentary on YouTube]
+
+- **Language Patterns**:  
+  - Asks questions and seeks advice, showing interactivity. [Source: r/plantclinic - Post about English ivy withering]  
+  - Shares resources, indicating a desire to contribute to the community. [Source: r/NYCbike - Post about a documentary on YouTube]
+
+- **Opinions and Viewpoints**:  
+  - Expressed frustration with Lyft's customer service, valuing good service. [Source: r/Lyft - Post about Lyft bike support]
+
+- **Community Participation**:  
+  - Actively posts in niche subreddits, contributing to discussions. [Source: r/plantclinic - Multiple posts]  
+  - Engages by sharing content and seeking advice, showing active participation. [Source: r/NYCbike - Documentary post]
+
+- **Behavioral Patterns**:  
+  - Proactive in solving problems, like addressing plant issues. [Source: r/plantclinic - English ivy post]  
+  - Enjoys sharing informative content, contributing positively. [Source: r/NYCbike - Documentary post]
+
+- **Humor/Sarcasm Usage**:  
+  - No evident use of humor or sarcasm; communication is straightforward. [Source: r/Lyft - Post about support]
+
+- **Technical Knowledge**:  
+  - Practical knowledge of plants and biking, focused on advice and resources. [Source: r/plantclinic - Plant posts]  
+  - Understands how to share multimedia content effectively. [Source: r/NYCbike - Documentary post]
+
+---
+
+Here are the key inferences about the Reddit user kojied:
+
+* Age indicators: The user's writing style and vocabulary suggest a mature and experienced individual, possibly in their 30s or 40s, given their mention of having worked in environmental consulting [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Tone and communication style: The user's tone is professional and informative, indicating a desire to educate and discuss topics of importance [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Topics of interest: The user is interested in environmental and social responsibility, as evidenced by their discussion of ESG ratings and consumer activism [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Language patterns: The user's language is formal and devoid of slang, suggesting a preference for clear and concise communication [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Opinions and viewpoints: The user believes that individuals should be aware of their own ESG rating and that companies would take ESG ratings seriously if consumers changed their purchase behaviors [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Community participation: The user is attempting to engage with the community by asking a question and encouraging discussion [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Behavioral patterns: The user appears to be motivated by a desire to create positive change and is willing to think critically about complex issues [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Political/social views: The user's focus on environmental and social responsibility suggests a progressive or liberal worldview [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Humor/sarcasm usage: There is no evidence of humor or sarcasm in the provided text, suggesting that the user prefers a straightforward and serious approach to discussion [Source: r/unknown - Post about ESG ratings and consumer awareness].
+* Technical knowledge: The user demonstrates knowledge of environmental consulting and ESG ratings, suggesting a high level of technical expertise in these areas [Source: r/unknown - Post about ESG ratings and consumer awareness].
